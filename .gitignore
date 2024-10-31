@@ -1,0 +1,14 @@
+# Archivos y carpetas de configuración de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de cache de pytest
+.pytest_cache/
+
+# Entorno virtual de Poetry
+.venv/
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
